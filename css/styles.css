@@ -1,5 +1,5 @@
 body {
-  background: url("images/back.png");
+  background: url("/images/back.png");
   font-family: sans-serif; }
   body img {
     width: 100%; }
