@@ -1,5 +1,37 @@
 body {
   background-image: url("../images/back.jpg");
-  font-family: sans-serif; }
+  text-align: center;
+  font-family: "Futura",sans-serif; }
+  body .box {
+    height: 600px;
+    width: 600px;
+    margin-left: 100px; }
+  body p {
+    color: white;
+    font-size: 115%; }
+  body h2 {
+    text-decoration: underline;
+    font-style: oblique;
+    color: white; }
+  body ul {
+    list-style-position: inside; }
+  body .main {
+    padding: 1em;
+    color: white; }
+  body a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0; }
+  body a:link {
+    color: white;
+    background-color: rgba(205, 109, 45, 0.3);
+    font-size: 200%;
+    border: thick double #CD6D2E; }
+  body a:visited {
+    color: black;
+    background-color: rgba(205, 109, 45, 0.3); }
+  body a:hover {
+    color: #DF9157;
+    background-color: rgba(219, 219, 219, 0.3); }
   body img {
     width: 100%; }
